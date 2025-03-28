@@ -3,6 +3,9 @@
 # Project Description:
 This project aims to develop a machine learning model that predicts the approval or rejection of credit card applications based on socio-economic parameters such as income group, profession, and assets owned. Utilizing a dataset containing over 1 million records, the study assigns a credit score to applicants and classifies them as good or bad clients based on their risk profiles. By applying supervised machine learning techniques, the project seeks to improve the accuracy and efficiency of credit risk assessment, thereby assisting financial institutions in making data-driven lending decisions.
 
+# Dataset Link:
+https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?resource=download
+
 # Project Execution:
 
 ## Data Collection & Preprocessing:
